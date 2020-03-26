@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-links.component.css']
 })
 export class FavLinksComponent implements OnInit {
-  favlinks = ['https://www.autostraddle.com', 'https://www.womensstrengthcoalition.com'];
+  favLinks = ['https://www.autostraddle.com', 'https://www.womensstrengthcoalition.com'];
 
   constructor() { }
 

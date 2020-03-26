@@ -1,3 +1,8 @@
-a {
+.links {
     text-align: center;
+    font-size: 16px;
+}
+
+h3 {
+    text-decoration: underline;
 }
